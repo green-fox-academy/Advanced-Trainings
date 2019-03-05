@@ -11,6 +11,7 @@
 ## Retrainings
 
 ### Internal source based
+   - [Test Automation](https://github.com/green-fox-academy/test-auto-crash-course)
 
 ### External source based
    - GIT 
